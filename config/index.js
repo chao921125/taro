@@ -1,5 +1,5 @@
 const config = {
-  projectName: "taro-react",
+  projectName: "taro-react-ts",
   date: "2022-4-11",
   designWidth: 750,
   deviceRatio: {
