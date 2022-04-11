@@ -1,7 +1,7 @@
 {
   "miniprogramRoot": "./dist",
-  "projectname": "mini-taro",
-  "description": "mini-taro",
+  "projectname": "taro-vue-ts",
+  "description": "mini app",
   "appid": "touristappid",
   "setting": {
     "urlCheck": true,
